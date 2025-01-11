@@ -1,10 +1,12 @@
+-- */modules/glfw/premake5.lua
+
 project "GLFW"
 	kind "StaticLib"
 	language "C"
 	staticruntime "on"
 
-	targetdir ("%{wks.location}/build/bin/" .. outputdir .. "/dependencies/%{prj.name}")
-	objdir ("%{wks.location}/build/obj/" .. outputdir .. "/dependencies/%{prj.name}")
+	targetdir ("%{wks.location}/build/bin/" .. outputdir .. "/modules/%{prj.name}")
+	objdir ("%{wks.location}/build/obj/" .. outputdir .. "/modules/%{prj.name}")
 
 	files
 	{
