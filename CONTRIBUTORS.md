@@ -33,6 +33,7 @@ video tutorials.
  - Nicolas Caramelli
  - David Carlier
  - Arturo Castro
+ - Jose Luis Cercós Pita
  - Chi-kwan Chan
  - Victor Chernyakin
  - TheChocolateOre
@@ -48,6 +49,7 @@ video tutorials.
  - Andrew Corrigan
  - Bailey Cosier
  - Noel Cower
+ - James Cowgill
  - CuriouserThing
  - Bill Currie
  - Jason Daly
@@ -154,6 +156,7 @@ video tutorials.
  - Jonathan Mercier
  - Marcel Metz
  - Liam Middlebrook
+ - mightgoyardstill
  - Ave Milia
  - Icyllis Milica
  - Jonathan Miller
@@ -178,6 +181,7 @@ video tutorials.
  - n3rdopolis
  - Kristian Nielsen
  - Joel Niemelä
+ - Victor Nova
  - Kamil Nowakowski
  - onox
  - Denis Ovod
